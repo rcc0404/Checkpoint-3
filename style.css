@@ -6,6 +6,7 @@
 html,
 body,
 div,
+span,
 applet,
 object,
 iframe,
@@ -541,14 +542,14 @@ hr,
   text-align: center;
 }
 .main-service {
-  background: url(../assets/media/hero/services_hero.jpg), no-repeat;
+  background: url(./assets/media/hero/services_hero.jpg), no-repeat;
   height: 300px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 .main-contact {
-  background: url(../assets/media/hero/contact_hero.jpg), no-repeat;
+  background: url(./assets/media/hero/contact_hero.jpg), no-repeat;
 }
 
 /* Contact Page */
@@ -607,7 +608,7 @@ fieldset {
 
 /* case-page */
 .main-contact {
-  background: url(../assets/media/hero/cases_hero.jpg), no-repeat;
+  background: url(./assets/media/hero/cases_hero.jpg), no-repeat;
 }
 .case-section-page {
   background-color: #f8fafe;
@@ -659,12 +660,12 @@ fieldset {
 /* About Page */
 
 .main-about {
-  background: url(../assets/media/hero/about_hero.jpg), no-repeat;
+  background: url(./assets/media/hero/about_hero.jpg), no-repeat;
 }
 
 /* Blog Page */
 .main-blog {
-  background: url(../assets/media/hero/blog_hero.jpg), no-repeat;
+  background: url(./assets/media/hero/blog_hero.jpg), no-repeat;
 }
 .width-full {
   width: 100%;
