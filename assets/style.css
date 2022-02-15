@@ -277,7 +277,7 @@ h1 {
   text-transform: uppercase;
 }
 .hero {
-  background: url(../assets/media/hero/h1_hero.jpg) no-repeat;
+  background: url(assets/media/hero/h1_hero.jpg) no-repeat;
   background-position: center center;
   background-size: cover;
   height: 100vh;
